@@ -27,6 +27,12 @@ You only install once. Nizam checks this page shortly after it starts and every 
 
 Your data is kept across updates and reinstalls.
 
+## What's new in 2.5.1
+
+- **Faster typing and clicking.** The background art was rebuilt after measuring what it cost: typing is about 7× lighter and an idle window does almost no work. The art is now **still by default** (turn on *Movement → Animated* in Settings → Effects), and moving art pauses by itself while a dialog is open, for a moment while you type, and while the window is hidden.
+- **Calmer, more natural art:** softer light, leaves that turn over as they fall, plain bubbles, rain with near and far drops. Hover is now a small lift and a soft shadow, with no light following the mouse.
+- **One gear for all settings:** the sidebar footer has language, dark mode, a Settings gear and the Data & backups shield.
+
 ## What's new in 2.5
 
 Everything new is optional: switch any of it off in **Settings → Effects** or **Settings → Widgets**.
@@ -35,7 +41,7 @@ Everything new is optional: switch any of it off in **Settings → Effects** or 
 - **Background art:** aurora, waves, bubbles, **falling autumn leaves**, **rain**, grid or dots behind the pages, in your theme's colours. Animated or still, soft to bold.
 - **See-through window** (Windows 11): a Mica or Acrylic window like on a Mac, with three transparency levels. Switch back to the normal window at any time.
 - **The title bar follows light / dark mode.**
-- **Hover effects:** cards lift and a soft light follows the mouse. Choose off, subtle or rich.
+- **Hover effects:** clickable cards lift with a soft shadow and buttons step up and press down. Choose off, subtle or rich.
 - **Custom mouse pointer** in your theme's colour (arrow, dot or ring, normal or large), or keep the normal Windows pointer.
 - **Start with Windows:** Nizam can open minimised when you sign in, so your widgets are ready.
 
@@ -70,6 +76,7 @@ Everything new is optional: switch any of it off in **Settings → Effects** or 
 
 | Version | Date | Highlights |
 |---|---|---|
+| **2.5.1** | 2026-11-22 | Faster typing and clicking, calmer background art (still by default), one Settings gear |
 | **2.5.0** | 2026-11-22 | Desktop widgets, background art (including autumn leaves and rain), see-through window, hover effects, custom mouse pointer, start with Windows |
 | **2.4.1** | 2026-11-19 | New Forest & Gold logo |
 | **2.4.0** | 2026-11-19 | Redesign, new home screen, faster pages, four matching colour themes |
@@ -98,6 +105,12 @@ Everything new is optional: switch any of it off in **Settings → Effects** or 
 
 تثبّت التطبيق مرة واحدة فقط. يتحقق نظام من التحديثات تلقائياً، وينزّلها في الخلفية، ثم تظهر رسالة **"تحديث جديد جاهز"** مع زر **"ثبّت الآن"**. إذا تجاهلته يُثبَّت التحديث عند إغلاق التطبيق. بياناتك تبقى كما هي بعد كل تحديث.
 
+### الجديد في الإصدار 2.5.1
+
+- **كتابة ونقر أسرع.** أعدنا بناء رسومات الخلفية بعد قياس كلفتها: الكتابة أخف بحوالي 7 مرات، والنافذة الخاملة لا تستهلك شيئاً تقريباً. الرسومات الآن **ثابتة افتراضياً** (فعّل *الحركة ← متحركة* من الإعدادات ← المؤثرات)، والحركة تتوقف تلقائياً عند فتح نافذة حوار، ولحظة أثناء الكتابة، وعندما تكون النافذة مخفية.
+- **رسومات أهدأ وأكثر طبيعية:** ضوء أنعم، أوراق تنقلب أثناء سقوطها، فقاعات بسيطة، ومطر بقطرات قريبة وبعيدة. التمرير الآن ارتفاع خفيف وظل ناعم، بدون ضوء يتبع الماوس.
+- **ترس واحد لكل الإعدادات:** أسفل الشريط الجانبي: اللغة، الوضع الليلي، ترس الإعدادات، ودرع البيانات والنسخ الاحتياطي.
+
 ### الجديد في الإصدار 2.5
 
 كل الإضافات اختيارية، ويمكنك إيقاف أي منها من **الإعدادات ← المؤثرات** أو **الإعدادات ← الويدجت**.
@@ -106,7 +119,7 @@ Everything new is optional: switch any of it off in **Settings → Effects** or 
 - **رسومات في الخلفية:** شفق، أمواج، فقاعات، **أوراق خريف متساقطة**، **مطر**، شبكة أو نقاط خلف الصفحات بألوان الثيم. متحركة أو ثابتة، من خفيفة إلى قوية.
 - **نافذة شفافة** (ويندوز 11): نافذة ميكا أو أكريليك مثل أجهزة ماك، بثلاث درجات شفافية، ويمكنك الرجوع للنافذة العادية في أي وقت.
 - **شريط العنوان يتبع الوضع الفاتح أو الليلي.**
-- **تأثيرات التمرير:** ترتفع البطاقات ويتبع الماوسَ ضوءٌ ناعم. اختر: إيقاف أو هادئة أو غنية.
+- **تأثيرات التمرير:** ترتفع البطاقات القابلة للنقر مع ظل ناعم، والأزرار ترتفع وتنخفض عند الضغط. اختر: إيقاف أو هادئة أو غنية.
 - **مؤشر ماوس بلون الثيم** (سهم أو نقطة أو حلقة، عادي أو كبير)، أو أبقِ مؤشر ويندوز العادي.
 - **التشغيل مع ويندوز:** يمكن أن يفتح نظام مصغّراً عند تسجيل الدخول لتكون الويدجت جاهزة.
 
