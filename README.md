@@ -19,7 +19,7 @@ Arabic and English · works offline · no account, no server · your data never 
 2. Run it. Windows SmartScreen may warn because the installer isn't code-signed: choose **More info → Run anyway**.
 3. A **Nizam** shortcut is added to the Desktop and the Start menu.
 
-**Requirements:** Windows 10 or 11, 64-bit.
+**Requirements:** Windows 10 or 11, 64-bit. The see-through window needs Windows 11 (22H2 or newer).
 
 ## Updates
 
@@ -27,17 +27,17 @@ You only install once. Nizam checks this page shortly after it starts and every 
 
 Your data is kept across updates and reinstalls.
 
-## What's new in 2.4
+## What's new in 2.5
 
-- **New logo:** a bold white **N** on an emerald-green gradient with a **gold dot**.
-- **A calmer, cleaner design** on every page, with lighter cards, clearer buttons and tidier headings.
-- **New home screen:**
-  - A greeting that sums up your day: what's left to do and what's on your calendar.
-  - Quick buttons for a new task, an expense or an event.
-  - A **Today's progress** panel for tasks and habits, which shows a check mark when everything is done.
-  - A strip with today's tasks, habits, this month's spending and what's next.
-- **Faster:** pages open instantly and animations are shorter.
-- **Four matching colour themes:** Forest & Gold, Azure & Navy, Nizam Indigo and Graphite.
+Everything new is optional: switch any of it off in **Settings → Effects** or **Settings → Widgets**.
+
+- **Desktop widgets:** put your **notes, tasks, calendar, focus timer and habits** on the desktop as small windows. They stay in sync with the app: tick a task in the widget and it's done in the app too. Drag them anywhere, resize them from the corner and pin any of them above other windows.
+- **Background art:** aurora, waves, bubbles, **falling autumn leaves**, **rain**, grid or dots behind the pages, in your theme's colours. Animated or still, soft to bold.
+- **See-through window** (Windows 11): a Mica or Acrylic window like on a Mac, with three transparency levels. Switch back to the normal window at any time.
+- **The title bar follows light / dark mode.**
+- **Hover effects:** cards lift and a soft light follows the mouse. Choose off, subtle or rich.
+- **Custom mouse pointer** in your theme's colour (arrow, dot or ring, normal or large), or keep the normal Windows pointer.
+- **Start with Windows:** Nizam can open minimised when you sign in, so your widgets are ready.
 
 ## What Nizam does
 
@@ -54,7 +54,9 @@ Your data is kept across updates and reinstalls.
   - A tiny always-on-top timer while the app is minimised. You can hide it.
 - **Assistant (`Ctrl + K`):** type a sentence in Arabic or English, such as "صرفت 25 شيكل على قهوة" or "add task call the bank tomorrow". You see exactly what will be created before confirming. It runs entirely on your computer.
 - **Reminders:** desktop notifications for upcoming events, interviews and tasks due today.
+- **Desktop widgets:** notes, tasks, calendar, focus timer and habits on your desktop, always in sync with the app.
 - **Appearance:** Classic, Flat or Soft (One UI) style, four colour themes, 7 Arabic + Latin fonts, text size, light / dark mode and a Reduce animations option.
+- **Effects:** moving or still background art, a see-through window, hover effects and a custom mouse pointer. Each one can be turned off.
 
 ## Your data is safe
 
@@ -68,6 +70,7 @@ Your data is kept across updates and reinstalls.
 
 | Version | Date | Highlights |
 |---|---|---|
+| **2.5.0** | 2026-11-22 | Desktop widgets, background art (including autumn leaves and rain), see-through window, hover effects, custom mouse pointer, start with Windows |
 | **2.4.1** | 2026-11-19 | New Forest & Gold logo |
 | **2.4.0** | 2026-11-19 | Redesign, new home screen, faster pages, four matching colour themes |
 | **2.3.0** | 2026-11-19 | Automatic backups and restore, Google Calendar sync, custom-length timer with mini window, habit links, tasks by day, expense months, personal calorie budget and exercise |
@@ -89,23 +92,23 @@ Your data is kept across updates and reinstalls.
 2. شغّله. إذا ظهر تحذير من Windows SmartScreen اختر **More info ← Run anyway** (المثبّت غير موقّع رقمياً).
 3. ستجد اختصار **Nizam** على سطح المكتب وفي قائمة ابدأ.
 
-**المتطلبات:** ويندوز 10 أو 11 بنظام 64 بت.
+**المتطلبات:** ويندوز 10 أو 11 بنظام 64 بت. النافذة الشفافة تتطلب ويندوز 11 (إصدار 22H2 أو أحدث).
 
 ### التحديثات
 
 تثبّت التطبيق مرة واحدة فقط. يتحقق نظام من التحديثات تلقائياً، وينزّلها في الخلفية، ثم تظهر رسالة **"تحديث جديد جاهز"** مع زر **"ثبّت الآن"**. إذا تجاهلته يُثبَّت التحديث عند إغلاق التطبيق. بياناتك تبقى كما هي بعد كل تحديث.
 
-### الجديد في الإصدار 2.4
+### الجديد في الإصدار 2.5
 
-- **شعار جديد:** حرف **N** أبيض على تدرّج أخضر زمردي مع **نقطة ذهبية**.
-- **تصميم أهدأ وأنظف** في كل الصفحات.
-- **شاشة رئيسية جديدة:**
-  - ترحيب يلخّص يومك.
-  - أزرار سريعة لإضافة مهمة أو مصروف أو موعد.
-  - لوحة **تقدّم اليوم** للمهام والعادات، تظهر فيها علامة صح عند إنجاز كل شيء.
-  - شريط أرقام لمهام اليوم والعادات ومصروف الشهر والموعد القادم.
-- **أسرع:** الصفحات تفتح فوراً والحركات أقصر.
-- **أربع باقات ألوان متناسقة:** الغابة والذهب، الأزرق السماوي، نيلي نظام، الجرافيت.
+كل الإضافات اختيارية، ويمكنك إيقاف أي منها من **الإعدادات ← المؤثرات** أو **الإعدادات ← الويدجت**.
+
+- **ويدجت سطح المكتب:** ضع **الملاحظات والمهام والتقويم ومؤقّت التركيز والعادات** على سطح المكتب كنوافذ صغيرة متزامنة مع التطبيق: أنجز مهمة من الويدجت فتظهر منجزة في التطبيق أيضاً. اسحبها إلى أي مكان، وغيّر حجمها من الزاوية، وثبّت أياً منها فوق كل النوافذ.
+- **رسومات في الخلفية:** شفق، أمواج، فقاعات، **أوراق خريف متساقطة**، **مطر**، شبكة أو نقاط خلف الصفحات بألوان الثيم. متحركة أو ثابتة، من خفيفة إلى قوية.
+- **نافذة شفافة** (ويندوز 11): نافذة ميكا أو أكريليك مثل أجهزة ماك، بثلاث درجات شفافية، ويمكنك الرجوع للنافذة العادية في أي وقت.
+- **شريط العنوان يتبع الوضع الفاتح أو الليلي.**
+- **تأثيرات التمرير:** ترتفع البطاقات ويتبع الماوسَ ضوءٌ ناعم. اختر: إيقاف أو هادئة أو غنية.
+- **مؤشر ماوس بلون الثيم** (سهم أو نقطة أو حلقة، عادي أو كبير)، أو أبقِ مؤشر ويندوز العادي.
+- **التشغيل مع ويندوز:** يمكن أن يفتح نظام مصغّراً عند تسجيل الدخول لتكون الويدجت جاهزة.
 
 ### ماذا يقدّم نظام؟
 
@@ -121,7 +124,9 @@ Your data is kept across updates and reinstalls.
   - فقاعة وقت داخل التطبيق.
   - نافذة صغيرة فوق كل النوافذ عند تصغير التطبيق، ويمكنك إخفاؤها.
 - **المساعد (`Ctrl + K`):** اكتب جملة مثل "صرفت 25 شيكل على قهوة" أو "أضف مهمة مراجعة المحاضرة بكرا"، وسترى ما سيُضاف قبل التأكيد. يعمل على جهازك بالكامل.
+- **ويدجت سطح المكتب:** الملاحظات والمهام والتقويم ومؤقّت التركيز والعادات على سطح المكتب، متزامنة دائماً مع التطبيق.
 - **المظهر:** نمط كلاسيكي أو مسطّح أو ناعم (One UI)، أربع باقات ألوان، 7 خطوط عربية ولاتينية، حجم النص، الوضع الليلي، وخيار لتقليل الحركة.
+- **المؤثرات:** رسومات خلفية متحركة أو ثابتة، نافذة شفافة، تأثيرات التمرير، ومؤشر ماوس مخصّص. كل منها يمكن إيقافه.
 
 ### بياناتك بأمان
 
