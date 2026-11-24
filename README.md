@@ -27,6 +27,12 @@ You only install once. Nizam checks this page shortly after it starts and every 
 
 Your data is kept across updates and reinstalls.
 
+## What's new in 2.7
+
+- **Files in the notebook:** attach PDFs, Word, Excel and PowerPoint files, text, audio, video or zip files (up to 25 MB each) to any page. Click the paper-clip, type **/file**, or drag files onto the page.
+- **A card that opens in the page:** each file shows as a small card with its name and size, plus download and delete buttons. Press **Show in page** to read a PDF right there (zoom, pages, print), watch a video, play audio or read a text file. Press it again to fold it back into a card.
+- Attached files are kept in your backups and in the export file, like images.
+
 ## What's new in 2.6
 
 - **Notebook:** a new page for notes, ideas and research. Every page is a clean document: headings, bold, italic, highlight, lists and checklists, quotes, code and dividers. Type **/** on any line to add a block, or select text to format it. Pages save themselves as you type.
@@ -65,7 +71,7 @@ Everything new is optional: switch any of it off in **Settings → Effects** or 
 - **Expenses:** a monthly budget, spending by category, browsing between months, a trend chart, comparison with last month and export to Excel (CSV).
 - **Calendar:** your events plus **Google Calendar / Outlook** subscriptions through a private iCal link, synced automatically.
 - **Habits:** daily check-ins, streaks, a year heatmap and the hours you've spent on each habit (logged by hand or from the focus timer). Each habit can have a colour, a description and links, such as the course you're taking.
-- **Notebook:** pages for notes and research with headings, lists, checklists, images, links and a list of sources, on plain, lined, grid or dotted paper.
+- **Notebook:** pages for notes and research with headings, lists, checklists, images, attached files (PDF, Office, media), links and a list of sources, on plain, lined, grid or dotted paper.
 - **Health:** a food diary with calories and macros, and a **personal calorie budget** from your age, height, weight, activity and goal pace. There's also an exercise log with calories burned, water, a weight chart and the date you're on track to reach your goal.
 - **Job applications:** a drag-and-drop board from *Wishlist* to *Offer*, with interview reminders.
 - **Focus timer:**
@@ -90,6 +96,7 @@ Everything new is optional: switch any of it off in **Settings → Effects** or 
 
 | Version | Date | Highlights |
 |---|---|---|
+| **2.7.0** | 2026-11-24 | Attach files (PDF, Office, media, text) to notebook pages; open them inside the page |
 | **2.6.0** | 2026-11-24 | Notebook (pages with images, sources and paper styles), habit year heatmap with hours, focus timer counts toward a habit, Graphite logo |
 | **2.5.1** | 2026-11-22 | Faster typing and clicking, calmer background art (still by default), one Settings gear |
 | **2.5.0** | 2026-11-22 | Desktop widgets, background art (including autumn leaves and rain), see-through window, hover effects, custom mouse pointer, start with Windows |
@@ -119,6 +126,12 @@ Everything new is optional: switch any of it off in **Settings → Effects** or 
 ### التحديثات
 
 تثبّت التطبيق مرة واحدة فقط. يتحقق نظام من التحديثات تلقائياً، وينزّلها في الخلفية، ثم تظهر رسالة **"تحديث جديد جاهز"** مع زر **"ثبّت الآن"**. إذا تجاهلته يُثبَّت التحديث عند إغلاق التطبيق. بياناتك تبقى كما هي بعد كل تحديث.
+
+### الجديد في الإصدار 2.7
+
+- **الملفات في الدفتر:** أرفق ملفات PDF أو Word أو Excel أو PowerPoint أو ملفات نصية أو صوت أو فيديو أو ملفات مضغوطة (حتى 25 ميغابايت لكل ملف) بأي صفحة. اضغط على مشبك الورق، أو اكتب **/ملف**، أو اسحب الملفات إلى الصفحة.
+- **بطاقة تُفتح داخل الصفحة:** يظهر كل ملف كبطاقة صغيرة فيها اسمه وحجمه، مع زر للتنزيل وزر للحذف. اضغط **عرض داخل الصفحة** لتقرأ ملف PDF في مكانه (تكبير، صفحات، طباعة)، أو تشاهد الفيديو، أو تسمع الصوت، أو تقرأ الملف النصي. اضغط مرة أخرى ليعود بطاقة.
+- الملفات المرفقة محفوظة في النسخ الاحتياطية وملف التصدير مثل الصور.
 
 ### الجديد في الإصدار 2.6
 
@@ -158,7 +171,7 @@ Everything new is optional: switch any of it off in **Settings → Effects** or 
 - **المصروفات:** ميزانية شهرية، توزيع حسب الفئة، التنقل بين الأشهر، مقارنة بالشهر السابق، وتصدير إلى Excel.
 - **التقويم:** مواعيدك مع ربط **تقويم Google أو Outlook** عبر رابط iCal خاص يتزامن تلقائياً.
 - **العادات:** تسجيل يومي وسلاسل إنجاز، وخريطة للسنة كاملة، وعدد الساعات التي قضيتها في كل عادة (تسجّلها بنفسك أو من مؤقّت التركيز). لكل عادة لون ووصف وروابط (مثل رابط كورس).
-- **الدفتر:** صفحات للملاحظات والأبحاث فيها عناوين وقوائم وقوائم مهام وصور وروابط وقائمة مصادر، على ورق سادة أو مسطّر أو مربعات أو منقّط.
+- **الدفتر:** صفحات للملاحظات والأبحاث فيها عناوين وقوائم وقوائم مهام وصور وملفات مرفقة (PDF وOffice ووسائط) وروابط وقائمة مصادر، على ورق سادة أو مسطّر أو مربعات أو منقّط.
 - **الصحة:** يوميات طعام بالسعرات والعناصر الغذائية، وميزانية سعرات شخصية حسب عمرك وطولك ووزنك ونشاطك وهدفك. فيها أيضاً سجل تمارين بالسعرات المحروقة، وتتبّع الماء والوزن، وتاريخ متوقّع للوصول إلى هدفك.
 - **الوظائف:** لوحة سحب وإفلات من *قائمة الأمنيات* حتى *العرض*، مع تذكير بالمقابلات.
 - **مؤقّت التركيز:**
