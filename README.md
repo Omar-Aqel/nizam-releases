@@ -1,8 +1,8 @@
-<p align="center"><img src="icon.png" width="96" alt="Nizam logo: a white N on an emerald gradient with a gold dot" /></p>
+<p align="center"><img src="icon.png" width="96" alt="Nizam logo: a white N on a graphite gradient with an orange dot" /></p>
 
 <h1 align="center">Nizam — نظام</h1>
 
-<p align="center"><b>Your tasks, money, calendar, habits, health, job hunt and focus time in one private dashboard.</b><br/>
+<p align="center"><b>Your tasks, money, calendar, habits, notes, health, job hunt and focus time in one private dashboard.</b><br/>
 Arabic and English · works offline · no account, no server · your data never leaves your computer</p>
 
 <p align="center"><a href="https://github.com/Omar-Aqel/nizam-releases/releases/latest"><b>⬇ Download the latest version for Windows</b></a></p>
@@ -26,6 +26,19 @@ Arabic and English · works offline · no account, no server · your data never 
 You only install once. Nizam checks this page shortly after it starts and every few hours, downloads new versions in the background and shows **"Update ready — Install now"**. Click it and the app restarts on the new version. If you ignore it, the update installs the next time you close the app.
 
 Your data is kept across updates and reinstalls.
+
+## What's new in 2.6
+
+- **Notebook:** a new page for notes, ideas and research. Every page is a clean document: headings, bold, italic, highlight, lists and checklists, quotes, code and dividers. Type **/** on any line to add a block, or select text to format it. Pages save themselves as you type.
+- **Images:** paste a screenshot, drag photos in or pick them from your computer. They're shrunk automatically so they don't take much space.
+- **Sources:** keep the links, papers and videos behind each page, each with your own note.
+- **Page style:** plain, lined, grid (squares) or dotted paper.
+- **Arabic and English in the same page:** each paragraph follows the direction of its language.
+- Pin pages, search them, duplicate them or download one as a Markdown file. Notebook pages are included in backups and in the export file, images too.
+- **Habits — a whole year at a glance:** a heatmap for each habit from January to December, darker on the days you spent more time.
+- **Time per habit:** log 15 min, 30 min, an hour or any number of minutes, for today or any earlier day, and see the total hours. Each habit can have its own colour.
+- **Focus timer + habits:** pick a habit in the focus timer and every finished session is added to it.
+- **New Graphite logo.**
 
 ## What's new in 2.5.1
 
@@ -51,7 +64,8 @@ Everything new is optional: switch any of it off in **Settings → Effects** or 
 - **Tasks:** priorities, categories, due dates, search and filters, grouped by day with a done / total count.
 - **Expenses:** a monthly budget, spending by category, browsing between months, a trend chart, comparison with last month and export to Excel (CSV).
 - **Calendar:** your events plus **Google Calendar / Outlook** subscriptions through a private iCal link, synced automatically.
-- **Habits:** daily check-ins, streaks and 7-day history. Each habit can have a description and links, such as the course you're taking.
+- **Habits:** daily check-ins, streaks, a year heatmap and the hours you've spent on each habit (logged by hand or from the focus timer). Each habit can have a colour, a description and links, such as the course you're taking.
+- **Notebook:** pages for notes and research with headings, lists, checklists, images, links and a list of sources, on plain, lined, grid or dotted paper.
 - **Health:** a food diary with calories and macros, and a **personal calorie budget** from your age, height, weight, activity and goal pace. There's also an exercise log with calories burned, water, a weight chart and the date you're on track to reach your goal.
 - **Job applications:** a drag-and-drop board from *Wishlist* to *Offer*, with interview reminders.
 - **Focus timer:**
@@ -76,6 +90,7 @@ Everything new is optional: switch any of it off in **Settings → Effects** or 
 
 | Version | Date | Highlights |
 |---|---|---|
+| **2.6.0** | 2026-11-24 | Notebook (pages with images, sources and paper styles), habit year heatmap with hours, focus timer counts toward a habit, Graphite logo |
 | **2.5.1** | 2026-11-22 | Faster typing and clicking, calmer background art (still by default), one Settings gear |
 | **2.5.0** | 2026-11-22 | Desktop widgets, background art (including autumn leaves and rain), see-through window, hover effects, custom mouse pointer, start with Windows |
 | **2.4.1** | 2026-11-19 | New Forest & Gold logo |
@@ -91,7 +106,7 @@ Everything new is optional: switch any of it off in **Settings → Effects** or 
 
 ## بالعربية
 
-**نظام** لوحة شخصية تجمع مهامك ومصروفاتك وتقويمك وعاداتك وصحتك وطلبات التوظيف ومؤقّت التركيز في مكان واحد. يعمل بدون إنترنت وبدون حساب، وبياناتك لا تغادر جهازك أبداً.
+**نظام** لوحة شخصية تجمع مهامك ومصروفاتك وتقويمك وعاداتك وملاحظاتك وصحتك وطلبات التوظيف ومؤقّت التركيز في مكان واحد. يعمل بدون إنترنت وبدون حساب، وبياناتك لا تغادر جهازك أبداً.
 
 ### التثبيت
 
@@ -104,6 +119,19 @@ Everything new is optional: switch any of it off in **Settings → Effects** or 
 ### التحديثات
 
 تثبّت التطبيق مرة واحدة فقط. يتحقق نظام من التحديثات تلقائياً، وينزّلها في الخلفية، ثم تظهر رسالة **"تحديث جديد جاهز"** مع زر **"ثبّت الآن"**. إذا تجاهلته يُثبَّت التحديث عند إغلاق التطبيق. بياناتك تبقى كما هي بعد كل تحديث.
+
+### الجديد في الإصدار 2.6
+
+- **الدفتر:** صفحة جديدة للملاحظات والأفكار والأبحاث. كل صفحة مستند نظيف: عناوين، غامق، مائل، تظليل، قوائم وقوائم مهام، اقتباسات، كود وفواصل. اكتب **/** في أي سطر لإضافة عنصر، أو حدّد نصاً لتنسيقه. الصفحات تُحفظ تلقائياً أثناء الكتابة.
+- **الصور:** الصق لقطة شاشة، أو اسحب الصور إلى الصفحة، أو اخترها من جهازك. تُصغَّر تلقائياً فلا تأخذ مساحة كبيرة.
+- **المصادر:** احفظ الروابط والأوراق والفيديوهات التي تعتمد عليها في كل صفحة، مع ملاحظتك لكل منها.
+- **شكل الصفحة:** سادة أو مسطّرة أو مربعات أو منقّطة.
+- **العربية والإنجليزية في نفس الصفحة:** كل فقرة تأخذ اتجاه لغتها.
+- ثبّت الصفحات، وابحث فيها، وأنشئ نسخة منها، أو نزّلها كملف Markdown. صفحات الدفتر وصورها محفوظة في النسخ الاحتياطية وملف التصدير.
+- **العادات — السنة كاملة أمامك:** خريطة لكل عادة من يناير حتى ديسمبر، يغمق لونها في الأيام التي قضيت فيها وقتاً أطول.
+- **الوقت لكل عادة:** سجّل 15 دقيقة أو 30 دقيقة أو ساعة أو أي عدد من الدقائق، لليوم أو لأي يوم سابق، وشاهد مجموع الساعات. ولكل عادة لون تختاره.
+- **مؤقّت التركيز والعادات:** اختر عادة في مؤقّت التركيز، وكل جلسة تنتهي تُضاف إليها.
+- **شعار جديد بلون الجرافيت.**
 
 ### الجديد في الإصدار 2.5.1
 
@@ -129,7 +157,8 @@ Everything new is optional: switch any of it off in **Settings → Effects** or 
 - **المهام:** أولويات وتصنيفات ومواعيد وبحث وفلترة، مجمّعة حسب اليوم.
 - **المصروفات:** ميزانية شهرية، توزيع حسب الفئة، التنقل بين الأشهر، مقارنة بالشهر السابق، وتصدير إلى Excel.
 - **التقويم:** مواعيدك مع ربط **تقويم Google أو Outlook** عبر رابط iCal خاص يتزامن تلقائياً.
-- **العادات:** تسجيل يومي وسلاسل إنجاز، مع وصف وروابط لكل عادة (مثل رابط كورس).
+- **العادات:** تسجيل يومي وسلاسل إنجاز، وخريطة للسنة كاملة، وعدد الساعات التي قضيتها في كل عادة (تسجّلها بنفسك أو من مؤقّت التركيز). لكل عادة لون ووصف وروابط (مثل رابط كورس).
+- **الدفتر:** صفحات للملاحظات والأبحاث فيها عناوين وقوائم وقوائم مهام وصور وروابط وقائمة مصادر، على ورق سادة أو مسطّر أو مربعات أو منقّط.
 - **الصحة:** يوميات طعام بالسعرات والعناصر الغذائية، وميزانية سعرات شخصية حسب عمرك وطولك ووزنك ونشاطك وهدفك. فيها أيضاً سجل تمارين بالسعرات المحروقة، وتتبّع الماء والوزن، وتاريخ متوقّع للوصول إلى هدفك.
 - **الوظائف:** لوحة سحب وإفلات من *قائمة الأمنيات* حتى *العرض*، مع تذكير بالمقابلات.
 - **مؤقّت التركيز:**
