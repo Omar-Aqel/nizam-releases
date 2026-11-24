@@ -7,6 +7,8 @@ Arabic and English · works offline · no account, no server · your data never 
 
 <p align="center"><a href="https://github.com/Omar-Aqel/nizam-releases/releases/latest"><b>⬇ Download the latest version for Windows</b></a></p>
 
+<p align="center">Designed and developed by <b>Omar Aqel</b> (عمر عقل) · <a href="https://www.linkedin.com/in/omar-aqel-710328343/">LinkedIn</a> · <a href="https://github.com/Omar-Aqel">GitHub</a></p>
+
 > This repository only hosts the Windows installers and the auto-update feed. The source code is private.
 
 **[العربية ↓](#بالعربية)**
@@ -96,6 +98,7 @@ Everything new is optional: switch any of it off in **Settings → Effects** or 
 
 | Version | Date | Highlights |
 |---|---|---|
+| **2.7.1** | 2026-11-24 | Settings → About: version, developer and copyright |
 | **2.7.0** | 2026-11-24 | Attach files (PDF, Office, media, text) to notebook pages; open them inside the page |
 | **2.6.0** | 2026-11-24 | Notebook (pages with images, sources and paper styles), habit year heatmap with hours, focus timer counts toward a habit, Graphite logo |
 | **2.5.1** | 2026-11-22 | Faster typing and clicking, calmer background art (still by default), one Settings gear |
@@ -106,6 +109,19 @@ Everything new is optional: switch any of it off in **Settings → Effects** or 
 | **2.2.0** | 2026-11-13 | Health tracker and food diary, job applications board, `Ctrl + K` assistant |
 | **2.1.0** | 2026-11-12 | Colour themes, fonts, new date and time pickers |
 | **2.0.0** | 2026-11-12 | First Windows installer with automatic updates |
+
+## Developer
+
+Nizam is designed and developed by **Omar Aqel**.
+
+- LinkedIn: [linkedin.com/in/omar-aqel-710328343](https://www.linkedin.com/in/omar-aqel-710328343/)
+- GitHub: [github.com/Omar-Aqel](https://github.com/Omar-Aqel)
+
+In the app: **Settings → About**.
+
+## Licence
+
+Copyright © 2026 Omar Aqel. All rights reserved. Nizam is free to download and use; copying, modifying or redistributing it without permission is not allowed. See [LICENSE](LICENSE).
 
 ---
 
@@ -190,5 +206,18 @@ Everything new is optional: switch any of it off in **Settings → Effects** or 
 - قبل أي استيراد أو استرجاع يحفظ نظام نسخة احتياطية أولاً، فلا تضيع بياناتك بالخطأ.
 - لا يملأ التطبيق نفسه ببيانات تجريبية أبداً. في أول تشغيل تختار بنفسك: البدء من جديد، أو تجربة بيانات تجريبية، أو استيراد ملف، أو استرجاع نسخة تلقائية.
 - للانتقال إلى جهاز آخر: **تصدير** من الإعدادات، ثم **استيراد** على الجهاز الجديد.
+
+### المطوّر
+
+نظام من تصميم وتطوير **عمر عقل** (Omar Aqel).
+
+- لينكدإن: [linkedin.com/in/omar-aqel-710328343](https://www.linkedin.com/in/omar-aqel-710328343/)
+- جت هب: [github.com/Omar-Aqel](https://github.com/Omar-Aqel)
+
+داخل التطبيق: **الإعدادات ← حول التطبيق**.
+
+### الترخيص
+
+جميع الحقوق محفوظة © 2026 عمر عقل. التطبيق مجاني للتحميل والاستخدام، ولا يُسمح بنسخه أو تعديله أو إعادة نشره بدون إذن. التفاصيل في ملف [LICENSE](LICENSE).
 
 </div>
