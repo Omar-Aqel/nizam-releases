@@ -1,17 +1,38 @@
-<p align="center"><img src="icon.png" width="96" alt="Nizam logo: a white N on a graphite gradient with an orange dot" /></p>
+<p align="center"><img src="icon.png" width="88" alt="Nizam logo: a white N on a graphite gradient with an orange dot" /></p>
 
-<h1 align="center">Nizam — نظام</h1>
+<h1 align="center">Nizam · نظام</h1>
 
-<p align="center"><b>Your tasks, money, calendar, habits, notes, health, job hunt and focus time in one private dashboard.</b><br/>
-Arabic and English · works offline · no account, no server · your data never leaves your computer</p>
+<p align="center"><b>Your day, money, habits, health and notes in one calm, private app.</b><br/>
+Arabic & English · works offline · no account, no server · your data never leaves your computer</p>
 
-<p align="center"><a href="https://github.com/Omar-Aqel/nizam-releases/releases/latest"><b>⬇ Download the latest version for Windows</b></a></p>
+<p align="center">
+  <a href="https://github.com/Omar-Aqel/nizam-releases/releases/latest"><b>⬇ Download the latest version for Windows</b></a><br/>
+  <a href="FEATURES.md">All features</a> · <a href="CHANGELOG.md">Changelog</a> · <a href="#بالعربية">العربية ↓</a>
+</p>
+
+<p align="center"><img src="docs/screenshots/overview.jpg" width="880" alt="Nizam Overview in Arabic: greeting, weather, today's progress, numbers strip, today's priorities and schedule" /></p>
+
+<table>
+  <tr>
+    <td width="33%"><img src="docs/screenshots/overview-dark-en.jpg" alt="Overview in English, dark mode" /><p align="center"><sub>Overview · English, dark</sub></p></td>
+    <td width="33%"><img src="docs/screenshots/reminders.jpg" alt="Reminders page" /><p align="center"><sub>Recurring reminders · التذكيرات</sub></p></td>
+    <td width="33%"><img src="docs/screenshots/habits.jpg" alt="Habits with year heatmaps" /><p align="center"><sub>Habits · العادات</sub></p></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/notebook.jpg" alt="Notebook page" /><p align="center"><sub>Notebook · الدفتر</sub></p></td>
+    <td><img src="docs/screenshots/health.jpg" alt="Health page" /><p align="center"><sub>Health · الصحة</sub></p></td>
+    <td><img src="docs/screenshots/jobs.jpg" alt="Job applications board" /><p align="center"><sub>Job applications · الوظائف</sub></p></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/customize.jpg" alt="Customize the Overview" /><p align="center"><sub>Customise the Overview · التخصيص</sub></p></td>
+    <td><img src="docs/screenshots/tasks-dark-en.jpg" alt="Tasks in dark mode" /><p align="center"><sub>Tasks · المهام</sub></p></td>
+    <td><img src="docs/screenshots/settings.jpg" alt="Settings window" /><p align="center"><sub>Settings · الإعدادات</sub></p></td>
+  </tr>
+</table>
 
 <p align="center">Designed and developed by <b>Omar Aqel</b> (عمر عقل) · <a href="https://www.linkedin.com/in/omar-aqel-710328343/">LinkedIn</a> · <a href="https://github.com/Omar-Aqel">GitHub</a></p>
 
-> This repository only hosts the Windows installers and the auto-update feed. The source code is private.
-
-**[العربية ↓](#بالعربية)**
+> This repository hosts the Windows installers and the auto-update feed. The source code is private.
 
 ---
 
@@ -21,103 +42,62 @@ Arabic and English · works offline · no account, no server · your data never 
 2. Run it. Windows SmartScreen may warn because the installer isn't code-signed: choose **More info → Run anyway**.
 3. A **Nizam** shortcut is added to the Desktop and the Start menu.
 
-**Requirements:** Windows 10 or 11, 64-bit. The see-through window needs Windows 11 (22H2 or newer).
+**Requirements:** Windows 10 or 11, 64-bit. The see-through window needs Windows 11 (22H2 or newer) with *Transparency effects* on.
 
-## Updates
+**Updates are automatic.** You install once; Nizam downloads new versions in the background and shows **Update ready → Install now**. If you ignore it, the update installs when you close the app. Your data is kept across updates.
 
-You only install once. Nizam checks this page shortly after it starts and every few hours, downloads new versions in the background and shows **"Update ready — Install now"**. Click it and the app restarts on the new version. If you ignore it, the update installs the next time you close the app.
+## What's new in 2.8
 
-Your data is kept across updates and reinstalls.
-
-## What's new in 2.7
-
-- **Files in the notebook:** attach PDFs, Word, Excel and PowerPoint files, text, audio, video or zip files (up to 25 MB each) to any page. Click the paper-clip, type **/file**, or drag files onto the page.
-- **A card that opens in the page:** each file shows as a small card with its name and size, plus download and delete buttons. Press **Show in page** to read a PDF right there (zoom, pages, print), watch a video, play audio or read a text file. Press it again to fold it back into a card.
-- Attached files are kept in your backups and in the export file, like images.
-
-## What's new in 2.6
-
-- **Notebook:** a new page for notes, ideas and research. Every page is a clean document: headings, bold, italic, highlight, lists and checklists, quotes, code and dividers. Type **/** on any line to add a block, or select text to format it. Pages save themselves as you type.
-- **Images:** paste a screenshot, drag photos in or pick them from your computer. They're shrunk automatically so they don't take much space.
-- **Sources:** keep the links, papers and videos behind each page, each with your own note.
-- **Page style:** plain, lined, grid (squares) or dotted paper.
-- **Arabic and English in the same page:** each paragraph follows the direction of its language.
-- Pin pages, search them, duplicate them or download one as a Markdown file. Notebook pages are included in backups and in the export file, images too.
-- **Habits — a whole year at a glance:** a heatmap for each habit from January to December, darker on the days you spent more time.
-- **Time per habit:** log 15 min, 30 min, an hour or any number of minutes, for today or any earlier day, and see the total hours. Each habit can have its own colour.
-- **Focus timer + habits:** pick a habit in the focus timer and every finished session is added to it.
-- **New Graphite logo.**
-
-## What's new in 2.5.1
-
-- **Faster typing and clicking.** The background art was rebuilt after measuring what it cost: typing is about 7× lighter and an idle window does almost no work. The art is now **still by default** (turn on *Movement → Animated* in Settings → Effects), and moving art pauses by itself while a dialog is open, for a moment while you type, and while the window is hidden.
-- **Calmer, more natural art:** softer light, leaves that turn over as they fall, plain bubbles, rain with near and far drops. Hover is now a small lift and a soft shadow, with no light following the mouse.
-- **One gear for all settings:** the sidebar footer has language, dark mode, a Settings gear and the Data & backups shield.
-
-## What's new in 2.5
-
-Everything new is optional: switch any of it off in **Settings → Effects** or **Settings → Widgets**.
-
-- **Desktop widgets:** put your **notes, tasks, calendar, focus timer and habits** on the desktop as small windows. They stay in sync with the app: tick a task in the widget and it's done in the app too. Drag them anywhere, resize them from the corner and pin any of them above other windows.
-- **Background art:** aurora, waves, bubbles, **falling autumn leaves**, **rain**, grid or dots behind the pages, in your theme's colours. Animated or still, soft to bold.
-- **See-through window** (Windows 11): a Mica or Acrylic window like on a Mac, with three transparency levels. Switch back to the normal window at any time.
-- **The title bar follows light / dark mode.**
-- **Hover effects:** clickable cards lift with a soft shadow and buttons step up and press down. Choose off, subtle or rich.
-- **Custom mouse pointer** in your theme's colour (arrow, dot or ring, normal or large), or keep the normal Windows pointer.
-- **Start with Windows:** Nizam can open minimised when you sign in, so your widgets are ready.
+- **Reminders:** "take zinc every other day", "dermaroller on Sunday and Wednesday" — a notification at the time you pick, a tick on the home screen, and the last 7 times at a glance.
+- **Weather** on the home screen (your city, the sky, the temperature) and **Did you know?** — a new interesting fact every time you open the app.
+- **Make it yours:** customise the home screen (hide anything, reorder cards, choose their width), collapse the sidebar to icons (**Ctrl + \\**), reorder or hide pages.
+- **A welcome tour** that asks your name and city, a new **Settings** window, and a **right-click menu** for cut / copy / paste.
+- **Notebook:** drawing pen, export a page as PDF, full screen, links with your own text, images you can drag to the desktop or WhatsApp.
+- **Effects reworked:** the see-through window now works, new backgrounds, smoother hover.
 
 ## What Nizam does
 
-- **Home (Overview):** your whole day on one screen. You can choose which cards to show.
-- **Tasks:** priorities, categories, due dates, search and filters, grouped by day with a done / total count.
-- **Expenses:** a monthly budget, spending by category, browsing between months, a trend chart, comparison with last month and export to Excel (CSV).
-- **Calendar:** your events plus **Google Calendar / Outlook** subscriptions through a private iCal link, synced automatically.
-- **Habits:** daily check-ins, streaks, a year heatmap and the hours you've spent on each habit (logged by hand or from the focus timer). Each habit can have a colour, a description and links, such as the course you're taking.
-- **Notebook:** pages for notes and research with headings, lists, checklists, images, attached files (PDF, Office, media), links and a list of sources, on plain, lined, grid or dotted paper.
-- **Health:** a food diary with calories and macros, and a **personal calorie budget** from your age, height, weight, activity and goal pace. There's also an exercise log with calories burned, water, a weight chart and the date you're on track to reach your goal.
-- **Job applications:** a drag-and-drop board from *Wishlist* to *Offer*, with interview reminders.
-- **Focus timer:**
-  - Any length you like, with breaks that start automatically.
-  - A small timer bubble inside the app.
-  - A tiny always-on-top timer while the app is minimised. You can hide it.
-- **Assistant (`Ctrl + K`):** type a sentence in Arabic or English, such as "صرفت 25 شيكل على قهوة" or "add task call the bank tomorrow". You see exactly what will be created before confirming. It runs entirely on your computer.
-- **Reminders:** desktop notifications for upcoming events, interviews and tasks due today.
-- **Desktop widgets:** notes, tasks, calendar, focus timer and habits on your desktop, always in sync with the app.
-- **Appearance:** Classic, Flat or Soft (One UI) style, four colour themes, 7 Arabic + Latin fonts, text size, light / dark mode and a Reduce animations option.
-- **Effects:** moving or still background art, a see-through window, hover effects and a custom mouse pointer. Each one can be turned off.
+| | |
+|---|---|
+| **Home** | Greeting, weather, today's progress, key numbers and cards you arrange yourself |
+| **Tasks** | Priorities, categories, due dates, grouped by day |
+| **Calendar** | Your events plus Google Calendar / Outlook subscriptions |
+| **Habits** | Streaks, a year heatmap and the hours you spend on each habit |
+| **Reminders** | Recurring notifications: daily, every few days or on chosen weekdays |
+| **Expenses** | Monthly budget, categories, trends, export to Excel |
+| **Health** | Food diary, personal calorie budget, exercise, weight and water |
+| **Jobs** | A drag-and-drop board for your applications, with interview reminders |
+| **Notebook** | Pages with images, files, drawing, sources and paper styles; PDF export |
+| **Focus timer** | Any length, automatic breaks, a mini timer while minimised |
+| **Assistant** | `Ctrl + K`: type "صرفت 25 شيكل على قهوة" or "add task call the bank tomorrow" |
+| **Desktop** | Widgets on your desktop, start with Windows, automatic updates |
+
+Everything in detail: **[FEATURES.md](FEATURES.md)**.
 
 ## Your data is safe
 
-- Everything is stored **only on your computer**, in `%APPDATA%\personal-life-dashboard`.
-- **Automatic backups** are saved in the background to `%APPDATA%\personal-life-dashboard\backups`. You can restore any of them from **Settings → Data & backups**.
-- Before importing a file, loading sample data or restoring a backup, Nizam **saves a backup first**, so nothing is lost by mistake.
-- The app never fills itself with demo data. On first launch you choose: start fresh, try sample data, import a backup file, or restore an automatic backup.
-- To move to another computer, use **Export** in Settings and **Import** on the new one.
+- Everything is stored **only on your computer** (`%APPDATA%\personal-life-dashboard`). No account, no tracking.
+- **Automatic backups** in the background; restore any of them from **Settings → Data & backups**. A backup is saved before every import or restore.
+- To move to another computer: **Export** in Settings, then **Import** on the new one.
+- The only online features are optional: the weather (for the city you choose) and calendar subscriptions.
 
 ## Version history
 
 | Version | Date | Highlights |
 |---|---|---|
+| **2.8.0** | 2026-11-26 | Reminders, weather, Did you know?, customisable home screen and sidebar, new Settings, welcome tour, right-click menu, notebook drawing + PDF export, working see-through window |
 | **2.7.1** | 2026-11-24 | Settings → About: version, developer and copyright |
-| **2.7.0** | 2026-11-24 | Attach files (PDF, Office, media, text) to notebook pages; open them inside the page |
-| **2.6.0** | 2026-11-24 | Notebook (pages with images, sources and paper styles), habit year heatmap with hours, focus timer counts toward a habit, Graphite logo |
-| **2.5.1** | 2026-11-22 | Faster typing and clicking, calmer background art (still by default), one Settings gear |
-| **2.5.0** | 2026-11-22 | Desktop widgets, background art (including autumn leaves and rain), see-through window, hover effects, custom mouse pointer, start with Windows |
-| **2.4.1** | 2026-11-19 | New Forest & Gold logo |
-| **2.4.0** | 2026-11-19 | Redesign, new home screen, faster pages, four matching colour themes |
-| **2.3.0** | 2026-11-19 | Automatic backups and restore, Google Calendar sync, custom-length timer with mini window, habit links, tasks by day, expense months, personal calorie budget and exercise |
-| **2.2.0** | 2026-11-13 | Health tracker and food diary, job applications board, `Ctrl + K` assistant |
+| **2.7.0** | 2026-11-24 | Attach files (PDF, Office, media, text) to notebook pages |
+| **2.6.0** | 2026-11-24 | Notebook, habit year heatmap with hours, Graphite logo |
+| **2.5.1** | 2026-11-22 | Faster typing and clicking, calmer background art, one Settings gear |
+| **2.5.0** | 2026-11-22 | Desktop widgets, background art, see-through window, hover effects, custom pointer, start with Windows |
+| **2.4.x** | 2026-11-19 | Redesign, new home screen, four colour themes |
+| **2.3.0** | 2026-11-19 | Automatic backups, Google Calendar sync, timer mini window, calorie budget and exercise |
+| **2.2.0** | 2026-11-13 | Health tracker, job applications board, `Ctrl + K` assistant |
 | **2.1.0** | 2026-11-12 | Colour themes, fonts, new date and time pickers |
 | **2.0.0** | 2026-11-12 | First Windows installer with automatic updates |
 
-## Developer
-
-Nizam is designed and developed by **Omar Aqel**.
-
-- LinkedIn: [linkedin.com/in/omar-aqel-710328343](https://www.linkedin.com/in/omar-aqel-710328343/)
-- GitHub: [github.com/Omar-Aqel](https://github.com/Omar-Aqel)
-
-In the app: **Settings → About**.
+Full notes: [CHANGELOG.md](CHANGELOG.md).
 
 ## Licence
 
@@ -129,7 +109,9 @@ Copyright © 2026 Omar Aqel. All rights reserved. Nizam is free to download and 
 
 ## بالعربية
 
-**نظام** لوحة شخصية تجمع مهامك ومصروفاتك وتقويمك وعاداتك وملاحظاتك وصحتك وطلبات التوظيف ومؤقّت التركيز في مكان واحد. يعمل بدون إنترنت وبدون حساب، وبياناتك لا تغادر جهازك أبداً.
+**نظام** تطبيق شخصي يجمع يومك وأموالك وعاداتك وصحتك وملاحظاتك في مكان واحد هادئ. يعمل بدون إنترنت وبدون حساب، وبياناتك لا تغادر جهازك أبداً.
+
+<p align="center"><a href="https://github.com/Omar-Aqel/nizam-releases/releases/latest"><b>⬇ نزّل أحدث إصدار لويندوز</b></a> · <a href="FEATURES.md#بالعربية">كل الميزات</a></p>
 
 ### التثبيت
 
@@ -137,84 +119,43 @@ Copyright © 2026 Omar Aqel. All rights reserved. Nizam is free to download and 
 2. شغّله. إذا ظهر تحذير من Windows SmartScreen اختر **More info ← Run anyway** (المثبّت غير موقّع رقمياً).
 3. ستجد اختصار **Nizam** على سطح المكتب وفي قائمة ابدأ.
 
-**المتطلبات:** ويندوز 10 أو 11 بنظام 64 بت. النافذة الشفافة تتطلب ويندوز 11 (إصدار 22H2 أو أحدث).
+**المتطلبات:** ويندوز 10 أو 11 بنظام 64 بت. النافذة الشفافة تحتاج ويندوز 11 (22H2 أو أحدث) مع تفعيل «تأثيرات الشفافية».
 
-### التحديثات
+**التحديثات تلقائية:** تثبّت التطبيق مرة واحدة، وينزّل نظام الإصدارات الجديدة في الخلفية ثم يظهر زر **«ثبّت الآن»**. بياناتك تبقى كما هي بعد كل تحديث.
 
-تثبّت التطبيق مرة واحدة فقط. يتحقق نظام من التحديثات تلقائياً، وينزّلها في الخلفية، ثم تظهر رسالة **"تحديث جديد جاهز"** مع زر **"ثبّت الآن"**. إذا تجاهلته يُثبَّت التحديث عند إغلاق التطبيق. بياناتك تبقى كما هي بعد كل تحديث.
+### الجديد في الإصدار 2.8
 
-### الجديد في الإصدار 2.7
-
-- **الملفات في الدفتر:** أرفق ملفات PDF أو Word أو Excel أو PowerPoint أو ملفات نصية أو صوت أو فيديو أو ملفات مضغوطة (حتى 25 ميغابايت لكل ملف) بأي صفحة. اضغط على مشبك الورق، أو اكتب **/ملف**، أو اسحب الملفات إلى الصفحة.
-- **بطاقة تُفتح داخل الصفحة:** يظهر كل ملف كبطاقة صغيرة فيها اسمه وحجمه، مع زر للتنزيل وزر للحذف. اضغط **عرض داخل الصفحة** لتقرأ ملف PDF في مكانه (تكبير، صفحات، طباعة)، أو تشاهد الفيديو، أو تسمع الصوت، أو تقرأ الملف النصي. اضغط مرة أخرى ليعود بطاقة.
-- الملفات المرفقة محفوظة في النسخ الاحتياطية وملف التصدير مثل الصور.
-
-### الجديد في الإصدار 2.6
-
-- **الدفتر:** صفحة جديدة للملاحظات والأفكار والأبحاث. كل صفحة مستند نظيف: عناوين، غامق، مائل، تظليل، قوائم وقوائم مهام، اقتباسات، كود وفواصل. اكتب **/** في أي سطر لإضافة عنصر، أو حدّد نصاً لتنسيقه. الصفحات تُحفظ تلقائياً أثناء الكتابة.
-- **الصور:** الصق لقطة شاشة، أو اسحب الصور إلى الصفحة، أو اخترها من جهازك. تُصغَّر تلقائياً فلا تأخذ مساحة كبيرة.
-- **المصادر:** احفظ الروابط والأوراق والفيديوهات التي تعتمد عليها في كل صفحة، مع ملاحظتك لكل منها.
-- **شكل الصفحة:** سادة أو مسطّرة أو مربعات أو منقّطة.
-- **العربية والإنجليزية في نفس الصفحة:** كل فقرة تأخذ اتجاه لغتها.
-- ثبّت الصفحات، وابحث فيها، وأنشئ نسخة منها، أو نزّلها كملف Markdown. صفحات الدفتر وصورها محفوظة في النسخ الاحتياطية وملف التصدير.
-- **العادات — السنة كاملة أمامك:** خريطة لكل عادة من يناير حتى ديسمبر، يغمق لونها في الأيام التي قضيت فيها وقتاً أطول.
-- **الوقت لكل عادة:** سجّل 15 دقيقة أو 30 دقيقة أو ساعة أو أي عدد من الدقائق، لليوم أو لأي يوم سابق، وشاهد مجموع الساعات. ولكل عادة لون تختاره.
-- **مؤقّت التركيز والعادات:** اختر عادة في مؤقّت التركيز، وكل جلسة تنتهي تُضاف إليها.
-- **شعار جديد بلون الجرافيت.**
-
-### الجديد في الإصدار 2.5.1
-
-- **كتابة ونقر أسرع.** أعدنا بناء رسومات الخلفية بعد قياس كلفتها: الكتابة أخف بحوالي 7 مرات، والنافذة الخاملة لا تستهلك شيئاً تقريباً. الرسومات الآن **ثابتة افتراضياً** (فعّل *الحركة ← متحركة* من الإعدادات ← المؤثرات)، والحركة تتوقف تلقائياً عند فتح نافذة حوار، ولحظة أثناء الكتابة، وعندما تكون النافذة مخفية.
-- **رسومات أهدأ وأكثر طبيعية:** ضوء أنعم، أوراق تنقلب أثناء سقوطها، فقاعات بسيطة، ومطر بقطرات قريبة وبعيدة. التمرير الآن ارتفاع خفيف وظل ناعم، بدون ضوء يتبع الماوس.
-- **ترس واحد لكل الإعدادات:** أسفل الشريط الجانبي: اللغة، الوضع الليلي، ترس الإعدادات، ودرع البيانات والنسخ الاحتياطي.
-
-### الجديد في الإصدار 2.5
-
-كل الإضافات اختيارية، ويمكنك إيقاف أي منها من **الإعدادات ← المؤثرات** أو **الإعدادات ← الويدجت**.
-
-- **ويدجت سطح المكتب:** ضع **الملاحظات والمهام والتقويم ومؤقّت التركيز والعادات** على سطح المكتب كنوافذ صغيرة متزامنة مع التطبيق: أنجز مهمة من الويدجت فتظهر منجزة في التطبيق أيضاً. اسحبها إلى أي مكان، وغيّر حجمها من الزاوية، وثبّت أياً منها فوق كل النوافذ.
-- **رسومات في الخلفية:** شفق، أمواج، فقاعات، **أوراق خريف متساقطة**، **مطر**، شبكة أو نقاط خلف الصفحات بألوان الثيم. متحركة أو ثابتة، من خفيفة إلى قوية.
-- **نافذة شفافة** (ويندوز 11): نافذة ميكا أو أكريليك مثل أجهزة ماك، بثلاث درجات شفافية، ويمكنك الرجوع للنافذة العادية في أي وقت.
-- **شريط العنوان يتبع الوضع الفاتح أو الليلي.**
-- **تأثيرات التمرير:** ترتفع البطاقات القابلة للنقر مع ظل ناعم، والأزرار ترتفع وتنخفض عند الضغط. اختر: إيقاف أو هادئة أو غنية.
-- **مؤشر ماوس بلون الثيم** (سهم أو نقطة أو حلقة، عادي أو كبير)، أو أبقِ مؤشر ويندوز العادي.
-- **التشغيل مع ويندوز:** يمكن أن يفتح نظام مصغّراً عند تسجيل الدخول لتكون الويدجت جاهزة.
+- **التذكيرات:** «تناول الزنك يوم بعد يوم»، «الديرمارولر الأحد والأربعاء» — إشعار في الوقت الذي تختاره، وزر «تم» في الصفحة الرئيسية، وآخر 7 مرات أمامك.
+- **الطقس** في الصفحة الرئيسية (مدينتك وحالة الطقس والحرارة)، و**هل تعلم؟** — معلومة مدهشة جديدة كل مرة تفتح التطبيق.
+- **خصّصه كما تحب:** رتّب بطاقات الصفحة الرئيسية وأخفِ ما لا تريده واختر عرض كل بطاقة، واطوِ الشريط الجانبي إلى أيقونات (**Ctrl + \\**)، ورتّب الصفحات أو أخفِها.
+- **جولة ترحيب** تسألك عن اسمك ومدينتك، و**نافذة إعدادات** جديدة أوضح، و**قائمة الزر الأيمن** للنسخ واللصق والقص.
+- **الدفتر:** قلم للرسم، وتصدير الصفحة PDF، وملء الشاشة، وروابط بنص تختاره، وسحب الصور إلى سطح المكتب أو الواتساب.
+- **المؤثرات من جديد:** النافذة الشفافة تعمل الآن، وخلفيات جديدة، وتأثيرات مرور أنعم.
 
 ### ماذا يقدّم نظام؟
 
-- **نظرة عامة:** يومك كله في شاشة واحدة، ويمكنك اختيار البطاقات الظاهرة.
-- **المهام:** أولويات وتصنيفات ومواعيد وبحث وفلترة، مجمّعة حسب اليوم.
-- **المصروفات:** ميزانية شهرية، توزيع حسب الفئة، التنقل بين الأشهر، مقارنة بالشهر السابق، وتصدير إلى Excel.
-- **التقويم:** مواعيدك مع ربط **تقويم Google أو Outlook** عبر رابط iCal خاص يتزامن تلقائياً.
-- **العادات:** تسجيل يومي وسلاسل إنجاز، وخريطة للسنة كاملة، وعدد الساعات التي قضيتها في كل عادة (تسجّلها بنفسك أو من مؤقّت التركيز). لكل عادة لون ووصف وروابط (مثل رابط كورس).
-- **الدفتر:** صفحات للملاحظات والأبحاث فيها عناوين وقوائم وقوائم مهام وصور وملفات مرفقة (PDF وOffice ووسائط) وروابط وقائمة مصادر، على ورق سادة أو مسطّر أو مربعات أو منقّط.
-- **الصحة:** يوميات طعام بالسعرات والعناصر الغذائية، وميزانية سعرات شخصية حسب عمرك وطولك ووزنك ونشاطك وهدفك. فيها أيضاً سجل تمارين بالسعرات المحروقة، وتتبّع الماء والوزن، وتاريخ متوقّع للوصول إلى هدفك.
-- **الوظائف:** لوحة سحب وإفلات من *قائمة الأمنيات* حتى *العرض*، مع تذكير بالمقابلات.
-- **مؤقّت التركيز:**
-  - مدة تختارها بنفسك، والاستراحات تبدأ تلقائياً.
-  - فقاعة وقت داخل التطبيق.
-  - نافذة صغيرة فوق كل النوافذ عند تصغير التطبيق، ويمكنك إخفاؤها.
-- **المساعد (`Ctrl + K`):** اكتب جملة مثل "صرفت 25 شيكل على قهوة" أو "أضف مهمة مراجعة المحاضرة بكرا"، وسترى ما سيُضاف قبل التأكيد. يعمل على جهازك بالكامل.
-- **ويدجت سطح المكتب:** الملاحظات والمهام والتقويم ومؤقّت التركيز والعادات على سطح المكتب، متزامنة دائماً مع التطبيق.
-- **المظهر:** نمط كلاسيكي أو مسطّح أو ناعم (One UI)، أربع باقات ألوان، 7 خطوط عربية ولاتينية، حجم النص، الوضع الليلي، وخيار لتقليل الحركة.
-- **المؤثرات:** رسومات خلفية متحركة أو ثابتة، نافذة شفافة، تأثيرات التمرير، ومؤشر ماوس مخصّص. كل منها يمكن إيقافه.
+- **الصفحة الرئيسية:** يومك كله في شاشة واحدة، مع الطقس وبطاقات ترتّبها بنفسك.
+- **المهام:** أولويات وتصنيفات ومواعيد، مجمّعة حسب اليوم.
+- **التقويم:** مواعيدك مع ربط **تقويم Google أو Outlook**.
+- **العادات:** سلاسل إنجاز، وخريطة للسنة كاملة، وعدد الساعات لكل عادة.
+- **التذكيرات:** إشعارات دورية: كل يوم، أو كل عدة أيام، أو أيام محددة.
+- **المصروفات:** ميزانية شهرية، وتوزيع حسب الفئة، ومقارنة بالشهر السابق، وتصدير إلى Excel.
+- **الصحة:** يوميات طعام، وميزانية سعرات شخصية، وتمارين، ووزن وماء.
+- **الوظائف:** لوحة سحب وإفلات لطلبات التوظيف مع تذكير بالمقابلات.
+- **الدفتر:** صفحات بالصور والملفات والرسم والمصادر، وتصدير PDF.
+- **مؤقّت التركيز** و**المساعد** (`Ctrl + K`): اكتب «صرفت 25 شيكل على قهوة» وسترى ما سيُضاف قبل التأكيد.
+- **ويدجت سطح المكتب** والتشغيل مع ويندوز.
 
 ### بياناتك بأمان
 
-- كل شيء محفوظ **على جهازك فقط**.
-- **نسخ احتياطية تلقائية** في الخلفية، ويمكنك استرجاع أي نسخة من **الإعدادات ← البيانات والنسخ الاحتياطي**.
-- قبل أي استيراد أو استرجاع يحفظ نظام نسخة احتياطية أولاً، فلا تضيع بياناتك بالخطأ.
-- لا يملأ التطبيق نفسه ببيانات تجريبية أبداً. في أول تشغيل تختار بنفسك: البدء من جديد، أو تجربة بيانات تجريبية، أو استيراد ملف، أو استرجاع نسخة تلقائية.
-- للانتقال إلى جهاز آخر: **تصدير** من الإعدادات، ثم **استيراد** على الجهاز الجديد.
+- كل شيء محفوظ **على جهازك فقط**، بدون حساب وبدون تتبّع.
+- **نسخ احتياطية تلقائية**، ويمكنك استرجاع أي نسخة من **الإعدادات ← البيانات والنسخ الاحتياطي**.
+- للانتقال إلى جهاز آخر: **تصدير** من الإعدادات ثم **استيراد** على الجهاز الجديد.
+- الميزات الوحيدة التي تتصل بالإنترنت اختيارية: الطقس للمدينة التي تختارها، وربط التقويم.
 
 ### المطوّر
 
-نظام من تصميم وتطوير **عمر عقل** (Omar Aqel).
-
-- لينكدإن: [linkedin.com/in/omar-aqel-710328343](https://www.linkedin.com/in/omar-aqel-710328343/)
-- جت هب: [github.com/Omar-Aqel](https://github.com/Omar-Aqel)
-
-داخل التطبيق: **الإعدادات ← حول التطبيق**.
+نظام من تصميم وتطوير **عمر عقل** (Omar Aqel) · [لينكدإن](https://www.linkedin.com/in/omar-aqel-710328343/) · [جت هب](https://github.com/Omar-Aqel). داخل التطبيق: **الإعدادات ← حول**.
 
 ### الترخيص
 
