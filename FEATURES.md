@@ -2,7 +2,7 @@
 
 <h1 align="center">Nizam — all features · كل الميزات</h1>
 
-<p align="center">Version 2.8.0 · <a href="#english">English</a> · <a href="#بالعربية">العربية</a></p>
+<p align="center">Version 2.9.0 · <a href="#english">English</a> · <a href="#بالعربية">العربية</a></p>
 
 <p align="center"><img src="docs/screenshots/overview.jpg" width="820" alt="Nizam Overview, Graphite theme, light mode: greeting, weather, today's progress, numbers strip, priorities and schedule" /></p>
 
@@ -119,9 +119,9 @@
 
 ### Appearance
 
-- **Design styles:** Classic, Flat and Soft (One UI).
-- **Colour themes:** Forest & Gold, Azure & Navy, Nizam Indigo, Graphite. Light and dark mode.
-- **7 Arabic + Latin fonts**, three text sizes, a *Reduce animations* switch.
+- **Five themes, each a whole look** (colours, shapes, buttons, Arabic + Latin fonts): Classic, Sand, Tonal, Soft (One UI) and Flat. Light and dark mode.
+- **Fine-tune:** five colour palettes (Forest & Gold, Sand, Nizam Indigo, Azure & Navy, Graphite) and **9 fonts**, three text sizes, a *Reduce animations* switch.
+- Serif headings in the Sand theme: EB Garamond, Noto Naskh Arabic for Arabic.
 - **Settings** in one large window with the sections listed on the side.
 
 <img src="docs/screenshots/settings-dark.jpg" width="640" alt="Settings window" />
@@ -240,7 +240,8 @@
 
 ### المظهر
 
-- ثلاثة أنماط تصميم (كلاسيكي، مسطّح، ناعم One UI)، أربع باقات ألوان، وضع فاتح وداكن، 7 خطوط عربية وإنجليزية، وثلاثة أحجام للنص.
+- خمسة ثيمات، كل واحد شكل كامل بألوانه وأشكاله وخطوطه العربية والإنجليزية: الكلاسيكي، الرملي (عناوين بخط النسخ)، النغمي (Material)، الناعم (One UI) والمسطّح. وضع فاتح وداكن.
+- تخصيص اختياري: خمس باقات ألوان و9 خطوط، وثلاثة أحجام للنص.
 - **الإعدادات** في نافذة واحدة كبيرة والأقسام على الجانب.
 
 ### المؤثرات

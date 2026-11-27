@@ -46,7 +46,7 @@ Arabic & English · works offline · no account, no server · your data never le
   <tr><td><img src="docs/screenshots/customize.jpg" alt="Customise the Overview, light" /></td><td><img src="docs/screenshots/customize-dark.jpg" alt="Customise the Overview, dark" /></td></tr>
   <tr><td><img src="docs/screenshots/settings.jpg" alt="Settings, light" /></td><td><img src="docs/screenshots/settings-dark.jpg" alt="Settings, dark" /></td></tr>
 </table>
-<p align="center"><sub>All screenshots use made-up example data, the Graphite theme and the English interface.</sub></p>
+<p align="center"><sub>These screenshots use made-up example data, Graphite colours and the English interface. The other themes are shown <a href="#five-themes">below</a>.</sub></p>
 </details>
 
 <p align="center">Designed and developed by <b>Omar Aqel</b> (عمر عقل) · <a href="https://www.linkedin.com/in/omar-aqel-710328343/">LinkedIn</a> · <a href="https://github.com/Omar-Aqel">GitHub</a></p>
@@ -64,6 +64,33 @@ Arabic & English · works offline · no account, no server · your data never le
 **Requirements:** Windows 10 or 11, 64-bit. The see-through window needs Windows 11 (22H2 or newer) with *Transparency effects* on.
 
 **Updates are automatic.** You install once; Nizam downloads new versions in the background and shows **Update ready → Install now**. If you ignore it, the update installs when you close the app. Your data is kept across updates.
+
+## What's new in 2.9
+
+- **Themes are whole looks now.** Picking a theme changes the shapes, buttons and fonts too, not only the colours, with a font for Arabic and one for English.
+- **New Sand theme:** cream paper, a deep green banner, lavender buttons with an ink outline, and serif headings (with an elegant Naskh font for Arabic).
+- **New Tonal theme:** soft tinted surfaces and pill buttons in Nizam Indigo, with Google Sans Flex.
+- **Sharper Flat** and a new font for **Soft** (Readex Pro).
+- **Fine-tune:** after picking a theme you can still change only the colours or only the font.
+
+## Five themes
+
+Pick one in **Settings → Appearance → Theme**.
+
+<table>
+  <tr>
+    <td width="50%"><img src="docs/screenshots/theme-sand.jpg" alt="Sand theme: cream paper, deep green banner, lavender accent button, serif headings" /><p align="center"><sub><b>Sand</b> · cream, deep green, lavender, serif titles</sub></p></td>
+    <td width="50%"><img src="docs/screenshots/theme-tonal.jpg" alt="Tonal theme: tinted indigo surfaces and pill buttons" /><p align="center"><sub><b>Tonal</b> · tinted surfaces and pills</sub></p></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/theme-classic.jpg" alt="Classic theme: forest green and gold" /><p align="center"><sub><b>Classic</b> · Forest & Gold</sub></p></td>
+    <td><img src="docs/screenshots/theme-soft.jpg" alt="Soft theme: rounded borderless cards in azure" /><p align="center"><sub><b>Soft</b> · One UI-style rounded cards</sub></p></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/theme-flat.jpg" alt="Flat theme: graphite, sharp corners, light numbers" /><p align="center"><sub><b>Flat</b> · precise, sharp corners</sub></p></td>
+    <td><img src="docs/screenshots/theme-sand-dark.jpg" alt="Sand theme in dark mode" /><p align="center"><sub><b>Sand</b> · dark mode</sub></p></td>
+  </tr>
+</table>
 
 ## What's new in 2.8
 
@@ -104,6 +131,7 @@ Everything in detail: **[FEATURES.md](FEATURES.md)**.
 
 | Version | Date | Highlights |
 |---|---|---|
+| **2.9.0** | 2026-11-27 | Themes as whole looks (shapes + Arabic and Latin fonts), new Sand and Tonal themes, sharper Flat |
 | **2.8.0** | 2026-11-26 | Reminders, weather, Did you know?, customisable home screen and sidebar, new Settings, welcome tour, right-click menu, notebook drawing + PDF export, working see-through window |
 | **2.7.1** | 2026-11-24 | Settings → About: version, developer and copyright |
 | **2.7.0** | 2026-11-24 | Attach files (PDF, Office, media, text) to notebook pages |
@@ -141,6 +169,16 @@ Copyright © 2026 Omar Aqel. All rights reserved. Nizam is free to download and 
 **المتطلبات:** ويندوز 10 أو 11 بنظام 64 بت. النافذة الشفافة تحتاج ويندوز 11 (22H2 أو أحدث) مع تفعيل «تأثيرات الشفافية».
 
 **التحديثات تلقائية:** تثبّت التطبيق مرة واحدة، وينزّل نظام الإصدارات الجديدة في الخلفية ثم يظهر زر **«ثبّت الآن»**. بياناتك تبقى كما هي بعد كل تحديث.
+
+### الجديد في الإصدار 2.9
+
+<p align="center"><img src="docs/screenshots/theme-sand-ar.jpg" width="820" alt="الصفحة الرئيسية بالعربية في الثيم الرملي" /></p>
+
+- **كل ثيم صار شكلاً كاملاً:** اختيار الثيم يغيّر الأشكال والأزرار والخطوط أيضاً، بخط للعربي وخط للإنجليزي، وليس الألوان فقط.
+- **الثيم الرملي (جديد):** ورق كريمي، وشريط أخضر غامق، وأزرار لافندر بإطار داكن، وعناوين بخط النسخ العربي الجميل.
+- **الثيم النغمي (جديد):** أسطح ملوّنة بهدوء وأزرار بيضاوية بلون نيلي نظام، بخط Google Sans.
+- **المسطّح** صار أدقّ، و**الناعم** بخط Readex Pro الجديد.
+- **تخصيص اختياري:** بعد اختيار الثيم يمكنك تغيير الألوان فقط أو الخط فقط.
 
 ### الجديد في الإصدار 2.8
 

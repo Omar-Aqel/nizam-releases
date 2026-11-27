@@ -2,6 +2,14 @@
 
 Release notes for Nizam. The latest installer is on the [releases page](https://github.com/Omar-Aqel/Nizam-App/releases/latest).
 
+### v2.9.0 — themes as whole looks
+
+- **Each theme is a whole look:** picking a theme now changes the shapes, buttons and fonts as well as the colours, with an Arabic and a Latin font for each. **Fine-tune** below still changes only colours or only the font.
+- **Sand (new):** cream paper with fine lines, a deep green banner, lavender buttons with an ink outline, black main buttons, sticker-style counters and serif headings and numbers (EB Garamond; Arabic in Noto Naskh). On large screens the content sits on one rounded sheet.
+- **Tonal (new):** Material-style: a tinted page, borderless cards with large corners, pill buttons, tonal chips, switches and menu. Nizam Indigo with Google Sans Flex and Rubik.
+- **Flat** is sharper: small corners, outlined buttons, uppercase labels, light large numbers, IBM Plex Sans Arabic. **Soft** uses Readex Pro.
+- Each theme card in Settings shows a sample of its fonts.
+
 ### v2.8.0 — your workspace, your way
 
 - **Reminders:** recurring reminders with a notification at their time — every day, every few days or on chosen weekdays. Today's reminders sit on the Overview with a tick; see the last 7 times and the next date; pause, edit, delete with undo.
