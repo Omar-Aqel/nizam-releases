@@ -6,39 +6,58 @@
 Arabic & English · works offline · no account, no server · your data never leaves your computer</p>
 
 <p align="center">
-  <a href="https://github.com/Omar-Aqel/nizam-releases/releases/latest"><b>⬇ Download the latest version for Windows</b></a><br/>
+  <a href="https://github.com/Omar-Aqel/Nizam-App/releases/latest"><b>⬇ Download the latest version for Windows</b></a><br/>
   <a href="FEATURES.md">All features</a> · <a href="CHANGELOG.md">Changelog</a> · <a href="#بالعربية">العربية ↓</a>
 </p>
 
-<p align="center"><img src="docs/screenshots/overview.jpg" width="880" alt="Nizam Overview in Arabic: greeting, weather, today's progress, numbers strip, today's priorities and schedule" /></p>
+<p align="center"><img src="docs/screenshots/overview.jpg" width="880" alt="Nizam Overview in the Graphite theme, light mode: greeting, Jerusalem weather, today's progress, a numbers strip, today's priorities and the schedule" /></p>
 
 <table>
   <tr>
-    <td width="33%"><img src="docs/screenshots/overview-dark-en.jpg" alt="Overview in English, dark mode" /><p align="center"><sub>Overview · English, dark</sub></p></td>
-    <td width="33%"><img src="docs/screenshots/reminders.jpg" alt="Reminders page" /><p align="center"><sub>Recurring reminders · التذكيرات</sub></p></td>
-    <td width="33%"><img src="docs/screenshots/habits.jpg" alt="Habits with year heatmaps" /><p align="center"><sub>Habits · العادات</sub></p></td>
+    <td width="33%"><img src="docs/screenshots/overview-dark.jpg" alt="Overview in dark mode with Tel Aviv weather" /><p align="center"><sub>Overview · dark</sub></p></td>
+    <td width="33%"><img src="docs/screenshots/tasks.jpg" alt="Tasks grouped by day" /><p align="center"><sub>Tasks</sub></p></td>
+    <td width="33%"><img src="docs/screenshots/calendar-dark.jpg" alt="Calendar month view, dark mode" /><p align="center"><sub>Calendar · dark</sub></p></td>
   </tr>
   <tr>
-    <td><img src="docs/screenshots/notebook.jpg" alt="Notebook page" /><p align="center"><sub>Notebook · الدفتر</sub></p></td>
-    <td><img src="docs/screenshots/health.jpg" alt="Health page" /><p align="center"><sub>Health · الصحة</sub></p></td>
-    <td><img src="docs/screenshots/jobs.jpg" alt="Job applications board" /><p align="center"><sub>Job applications · الوظائف</sub></p></td>
+    <td><img src="docs/screenshots/habits.jpg" alt="Habits with year heatmaps" /><p align="center"><sub>Habits · a year at a glance</sub></p></td>
+    <td><img src="docs/screenshots/reminders-dark.jpg" alt="Recurring reminders, dark mode" /><p align="center"><sub>Reminders · dark</sub></p></td>
+    <td><img src="docs/screenshots/expenses.jpg" alt="Expenses: budget, six-month trend and categories" /><p align="center"><sub>Expenses</sub></p></td>
   </tr>
   <tr>
-    <td><img src="docs/screenshots/customize.jpg" alt="Customize the Overview" /><p align="center"><sub>Customise the Overview · التخصيص</sub></p></td>
-    <td><img src="docs/screenshots/tasks-dark-en.jpg" alt="Tasks in dark mode" /><p align="center"><sub>Tasks · المهام</sub></p></td>
-    <td><img src="docs/screenshots/settings.jpg" alt="Settings window" /><p align="center"><sub>Settings · الإعدادات</sub></p></td>
+    <td><img src="docs/screenshots/health-dark.jpg" alt="Health: calorie budget, macros, water and food diary, dark mode" /><p align="center"><sub>Health · dark</sub></p></td>
+    <td><img src="docs/screenshots/jobs.jpg" alt="Job applications board" /><p align="center"><sub>Job applications</sub></p></td>
+    <td><img src="docs/screenshots/notebook-dark.jpg" alt="Notebook page, dark mode" /><p align="center"><sub>Notebook · dark</sub></p></td>
   </tr>
 </table>
 
+<details>
+<summary><b>More screenshots: every page in light and dark</b></summary>
+<br/>
+<table>
+  <tr><th>Light</th><th>Dark</th></tr>
+  <tr><td><img src="docs/screenshots/tasks.jpg" alt="Tasks, light" /></td><td><img src="docs/screenshots/tasks-dark.jpg" alt="Tasks, dark" /></td></tr>
+  <tr><td><img src="docs/screenshots/calendar.jpg" alt="Calendar, light" /></td><td><img src="docs/screenshots/calendar-dark.jpg" alt="Calendar, dark" /></td></tr>
+  <tr><td><img src="docs/screenshots/habits.jpg" alt="Habits, light" /></td><td><img src="docs/screenshots/habits-dark.jpg" alt="Habits, dark" /></td></tr>
+  <tr><td><img src="docs/screenshots/reminders.jpg" alt="Reminders, light" /></td><td><img src="docs/screenshots/reminders-dark.jpg" alt="Reminders, dark" /></td></tr>
+  <tr><td><img src="docs/screenshots/expenses.jpg" alt="Expenses, light" /></td><td><img src="docs/screenshots/expenses-dark.jpg" alt="Expenses, dark" /></td></tr>
+  <tr><td><img src="docs/screenshots/health.jpg" alt="Health, light" /></td><td><img src="docs/screenshots/health-dark.jpg" alt="Health, dark" /></td></tr>
+  <tr><td><img src="docs/screenshots/jobs.jpg" alt="Job applications, light" /></td><td><img src="docs/screenshots/jobs-dark.jpg" alt="Job applications, dark" /></td></tr>
+  <tr><td><img src="docs/screenshots/notebook.jpg" alt="Notebook, light" /></td><td><img src="docs/screenshots/notebook-dark.jpg" alt="Notebook, dark" /></td></tr>
+  <tr><td><img src="docs/screenshots/customize.jpg" alt="Customise the Overview, light" /></td><td><img src="docs/screenshots/customize-dark.jpg" alt="Customise the Overview, dark" /></td></tr>
+  <tr><td><img src="docs/screenshots/settings.jpg" alt="Settings, light" /></td><td><img src="docs/screenshots/settings-dark.jpg" alt="Settings, dark" /></td></tr>
+</table>
+<p align="center"><sub>All screenshots use made-up example data, the Graphite theme and the English interface.</sub></p>
+</details>
+
 <p align="center">Designed and developed by <b>Omar Aqel</b> (عمر عقل) · <a href="https://www.linkedin.com/in/omar-aqel-710328343/">LinkedIn</a> · <a href="https://github.com/Omar-Aqel">GitHub</a></p>
 
-> This repository hosts the Windows installers and the auto-update feed. The source code is private.
+> This repository hosts the Windows installers and the auto-update feed (it was called `nizam-releases` before; old links still work). The source code is private.
 
 ---
 
 ## Install
 
-1. Open the **[latest release](https://github.com/Omar-Aqel/nizam-releases/releases/latest)** and download `Nizam-Setup-x.y.z.exe` (under *Assets*).
+1. Open the **[latest release](https://github.com/Omar-Aqel/Nizam-App/releases/latest)** and download `Nizam-Setup-x.y.z.exe` (under *Assets*).
 2. Run it. Windows SmartScreen may warn because the installer isn't code-signed: choose **More info → Run anyway**.
 3. A **Nizam** shortcut is added to the Desktop and the Start menu.
 
@@ -48,7 +67,7 @@ Arabic & English · works offline · no account, no server · your data never le
 
 ## What's new in 2.8
 
-- **Reminders:** "take zinc every other day", "dermaroller on Sunday and Wednesday" — a notification at the time you pick, a tick on the home screen, and the last 7 times at a glance.
+- **Reminders:** "water the plants every 3 days", "call grandma on Friday and Monday" — a notification at the time you pick, a tick on the home screen, and the last 7 times at a glance.
 - **Weather** on the home screen (your city, the sky, the temperature) and **Did you know?** — a new interesting fact every time you open the app.
 - **Make it yours:** customise the home screen (hide anything, reorder cards, choose their width), collapse the sidebar to icons (**Ctrl + \\**), reorder or hide pages.
 - **A welcome tour** that asks your name and city, a new **Settings** window, and a **right-click menu** for cut / copy / paste.
@@ -111,11 +130,11 @@ Copyright © 2026 Omar Aqel. All rights reserved. Nizam is free to download and 
 
 **نظام** تطبيق شخصي يجمع يومك وأموالك وعاداتك وصحتك وملاحظاتك في مكان واحد هادئ. يعمل بدون إنترنت وبدون حساب، وبياناتك لا تغادر جهازك أبداً.
 
-<p align="center"><a href="https://github.com/Omar-Aqel/nizam-releases/releases/latest"><b>⬇ نزّل أحدث إصدار لويندوز</b></a> · <a href="FEATURES.md#بالعربية">كل الميزات</a></p>
+<p align="center"><a href="https://github.com/Omar-Aqel/Nizam-App/releases/latest"><b>⬇ نزّل أحدث إصدار لويندوز</b></a> · <a href="FEATURES.md#بالعربية">كل الميزات</a></p>
 
 ### التثبيت
 
-1. افتح **[آخر إصدار](https://github.com/Omar-Aqel/nizam-releases/releases/latest)** ونزّل الملف `Nizam-Setup-x.y.z.exe` من قسم *Assets*.
+1. افتح **[آخر إصدار](https://github.com/Omar-Aqel/Nizam-App/releases/latest)** ونزّل الملف `Nizam-Setup-x.y.z.exe` من قسم *Assets*.
 2. شغّله. إذا ظهر تحذير من Windows SmartScreen اختر **More info ← Run anyway** (المثبّت غير موقّع رقمياً).
 3. ستجد اختصار **Nizam** على سطح المكتب وفي قائمة ابدأ.
 
@@ -125,7 +144,7 @@ Copyright © 2026 Omar Aqel. All rights reserved. Nizam is free to download and 
 
 ### الجديد في الإصدار 2.8
 
-- **التذكيرات:** «تناول الزنك يوم بعد يوم»، «الديرمارولر الأحد والأربعاء» — إشعار في الوقت الذي تختاره، وزر «تم» في الصفحة الرئيسية، وآخر 7 مرات أمامك.
+- **التذكيرات:** «اسقِ النباتات كل 3 أيام»، «اتصل بالجدة يومي الجمعة والاثنين» — إشعار في الوقت الذي تختاره، وزر «تم» في الصفحة الرئيسية، وآخر 7 مرات أمامك.
 - **الطقس** في الصفحة الرئيسية (مدينتك وحالة الطقس والحرارة)، و**هل تعلم؟** — معلومة مدهشة جديدة كل مرة تفتح التطبيق.
 - **خصّصه كما تحب:** رتّب بطاقات الصفحة الرئيسية وأخفِ ما لا تريده واختر عرض كل بطاقة، واطوِ الشريط الجانبي إلى أيقونات (**Ctrl + \\**)، ورتّب الصفحات أو أخفِها.
 - **جولة ترحيب** تسألك عن اسمك ومدينتك، و**نافذة إعدادات** جديدة أوضح، و**قائمة الزر الأيمن** للنسخ واللصق والقص.

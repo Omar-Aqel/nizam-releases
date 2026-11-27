@@ -1,6 +1,6 @@
 # Changelog
 
-Release notes for Nizam. The latest installer is on the [releases page](https://github.com/Omar-Aqel/nizam-releases/releases/latest).
+Release notes for Nizam. The latest installer is on the [releases page](https://github.com/Omar-Aqel/Nizam-App/releases/latest).
 
 ### v2.8.0 — your workspace, your way
 

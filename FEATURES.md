@@ -4,7 +4,7 @@
 
 <p align="center">Version 2.8.0 · <a href="#english">English</a> · <a href="#بالعربية">العربية</a></p>
 
-<p align="center"><img src="docs/screenshots/overview.jpg" width="820" alt="Nizam Overview in Arabic: greeting, weather, today's progress, numbers strip, priorities and schedule" /></p>
+<p align="center"><img src="docs/screenshots/overview.jpg" width="820" alt="Nizam Overview, Graphite theme, light mode: greeting, weather, today's progress, numbers strip, priorities and schedule" /></p>
 
 ---
 
@@ -18,7 +18,7 @@
 
 ### Overview
 
-<img src="docs/screenshots/overview-dark-en.jpg" width="640" alt="Overview in English, dark mode" />
+<img src="docs/screenshots/overview-dark.jpg" width="640" alt="Overview in dark mode" />
 
 - **Greeting with your name** and a one-line summary of the day ("Today: 1 left to do · 2 on your calendar").
 - **Weather:** your city, the sky outside and the temperature, with today's high and low. Click it to change the city.
@@ -36,14 +36,14 @@
 - Filters and search; tasks are **grouped by day** with a done / total count; older days fold away.
 - "All done" state when the list is empty.
 
-<img src="docs/screenshots/tasks-dark-en.jpg" width="640" alt="Tasks page in dark mode" />
+<img src="docs/screenshots/tasks-dark.jpg" width="640" alt="Tasks page in dark mode" />
 
 ### Calendar
 
 - Month grid with a per-day agenda; time, location and notes per event.
 - **Google Calendar / Outlook subscriptions** through a private iCal link (desktop app): recurring events, time zones and exceptions handled, shown read-only in their own colour.
 
-<img src="docs/screenshots/calendar-rail.jpg" width="640" alt="Calendar with the sidebar collapsed to icons" />
+<img src="docs/screenshots/calendar.jpg" width="640" alt="Calendar month view with today's events" />
 
 ### Habits
 
@@ -57,12 +57,12 @@
 
 ### Reminders
 
-- **Recurring reminders with a notification at their time:** every day, every few days ("every other day" for a supplement) or on chosen weekdays ("Sunday and Wednesday" for skincare).
+- **Recurring reminders with a notification at their time:** every day, every few days ("water the plants every 3 days") or on chosen weekdays ("call grandma on Friday and Monday").
 - Today's reminders sit on the Overview and the Reminders page with a big tick; see the last 7 times (done or missed) and the next date.
 - Pause and resume, edit, delete with undo; a note and a colour per reminder.
 - If the app was closed at the reminder's time, it notifies as soon as it opens.
 
-<img src="docs/screenshots/reminders.jpg" width="640" alt="Reminders page: today's reminders and all reminders" />
+<img src="docs/screenshots/reminders-dark.jpg" width="640" alt="Reminders page: today's reminders and all reminders" />
 
 ### Expenses
 
@@ -78,7 +78,7 @@
 - **Exercise log** with calories from MET values: remaining = budget − food + exercise.
 - Macro rings, 7-day chart, weekly under / over, weight trend with goal line and projected goal date, water.
 
-<img src="docs/screenshots/health.jpg" width="640" alt="Health page" />
+<img src="docs/screenshots/health-dark.jpg" width="640" alt="Health page" />
 
 ### Jobs
 
@@ -96,7 +96,7 @@
 - Full screen (Esc exits), page list on the left, right or hidden, customisable toolbar, **export a page as PDF**, Markdown download, pin, search, duplicate.
 - Arabic and English in the same page: each paragraph follows its own direction.
 
-<img src="docs/screenshots/notebook.jpg" width="640" alt="Notebook page" />
+<img src="docs/screenshots/notebook-dark.jpg" width="640" alt="Notebook page" />
 
 ### Focus timer
 
@@ -105,7 +105,7 @@
 
 ### Assistant (Ctrl + K)
 
-- Type a sentence in Arabic or English — "صرفت 25 شيكل على قهوة", "add task review lecture tomorrow" — and see exactly what will be created before pressing Enter.
+- Type a sentence in Arabic or English — "صرفت 25 شيكل على قهوة", "add task call the bank tomorrow" — and see exactly what will be created before pressing Enter.
 - Also opens pages and settings, switches language or theme, exports data. Rule-based and on-device; voice input in Chrome / Edge.
 
 ### Navigation and layout
@@ -124,7 +124,7 @@
 - **7 Arabic + Latin fonts**, three text sizes, a *Reduce animations* switch.
 - **Settings** in one large window with the sections listed on the side.
 
-<img src="docs/screenshots/settings.jpg" width="640" alt="Settings window" />
+<img src="docs/screenshots/settings-dark.jpg" width="640" alt="Settings window" />
 
 ### Effects
 
@@ -194,7 +194,7 @@
 
 ### التذكيرات
 
-- **تذكيرات دورية مع إشعار في موعدها:** كل يوم، أو كل عدة أيام (مثل الزنك يوم بعد يوم)، أو أيام محددة (مثل الديرمارولر الأحد والأربعاء).
+- **تذكيرات دورية مع إشعار في موعدها:** كل يوم، أو كل عدة أيام (مثل سقي النباتات كل 3 أيام)، أو أيام محددة (مثل الاتصال بالجدة يومي الجمعة والاثنين).
 - تذكيرات اليوم تظهر في النظرة العامة وصفحة التذكيرات مع زر «تم»، وترى آخر 7 مرات والموعد القادم.
 - إيقاف مؤقت واستئناف وتعديل وحذف مع تراجع، وملاحظة ولون لكل تذكير.
 - إذا كان التطبيق مغلقًا وقت التذكير، يظهر الإشعار فور فتحه.
